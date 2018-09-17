@@ -1,5 +1,5 @@
 ---
-title: "Water governance and IWRM"
+title: "Putting the cart before the horse: Water governance and IWRM"
 collection: publications
 permalink: /publication/2011-Water-Governance
 excerpt: 'This paper examines the use of the term "water governance" in recent literature and proposes a more refined definition.'
