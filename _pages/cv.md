@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Politics, Whitman College, 2009
+* M.A. in Political Science, UCSD School of Global Polity and Strategy and Political Science Department 2017
+* Ph.D in International Affairs, UCSD School of Global Polity and Strategy and Political Science Department 2020 (Expected)
 
-Work experience
+Research
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Interests:
+  * Political economy of natural resources
+  * Machine learning and causal inference
+  * Remote sensing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Working papers:
+  * Mining Human Decision Making (with Molly Roberts)
+  * Democratization, Elections, and Public goods: The Evidence from Deforestation
+  * Detecting the Effects of Land Titling in Benin (with Jen Burney)
+  * Geographic Regression Discontinuities in Panel data
 
 Publications
 ======
@@ -56,4 +48,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Departmental VP of Social Events (2016-2017)
+* Departmental VP of Orientation (2017-2018)
