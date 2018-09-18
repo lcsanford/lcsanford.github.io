@@ -1,12 +1,14 @@
+
 ---
-title: "WORKING PAPER: Democratization, Elections, and Public Goods: The Evidence from Deforestation"
+title: "Cookstoves illustrate the need for a comprehensive carbon market"
 collection: publications
-permalink: /publication/2018-deforestation
-excerpt: 'I find that politicians exchange access to protected forests in exchange for political support, leading to higher rates of deforestation in the months surrounding an election.'
-date: 2018-01-01
-venue: 'TBD'
-paperurl: 'https://github.com/lcsanford/lcsanford.github.io/blob/master/files/Elections_Working.pdf'
-citation: 'Sanford, L. (2018). &quot;Democratization, Elections, and Public Goods: The Evidence from Deforestation&quot; <i>Working Paper</i>.'
+permalink: /publication/2015-cookstoves
+excerpt: 'We conduct a meta-analysis of previous cookstove emissions studies to improve greenhouse gas emission estimates of different stove classes and use this to show that incentive structures provided by current carbon markets promote stoves that have a larger greenhouse gas footprint.'
+date: 2015-08-25
+venue: 'Environmental Research Letters'
+paperurl: 'http://iopscience.iop.org/article/10.1088/1748-9326/10/8/084026/meta'
+citation: 'Sanford, L. & Burney, J. (2015). &quot;Cookstoves illustrate the need for a comprehensive carbon
+market&quot; <i>Environmental Research Letters,</i>. 10(8).'
 ---
 Abstract:
 This paper offers a political explanation for increases in deforestation: competitive elections. The protection of forested areas provides long-term, public goods while their destruction provides short-term, private goods for local voters. Politicians facing a competitive election offer voters access to forested areas for commercial use of timber and small-scale farming in exchange for electoral support. I test this theory of political deforestation using satelliteverified global forest cover data and the results of over 500 national-level elections between 1975 and 2005. The findings suggest that the transition to democracy is associated with higher rates of deforestation, that election years may have slightly higher rates of deforestation than non-election years, and that close elections have 25% higher deforestation rates than elections in which one side won by a wide margin. This suggests that democratization is associated with underprovision of environmental public goods and that contested elections are partially responsible for this underprovision.
