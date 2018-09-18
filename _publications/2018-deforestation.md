@@ -2,7 +2,7 @@
 title: "WORKING PAPER: Democratization, Elections, and Public Goods: The Evidence from Deforestation"
 collection: publications
 permalink: /publication/2018-deforestation
-excerpt: 'I find that politicians exchange access to protected forests in exchange for political support, leading to higher rates of deforestation in the months surrounding an election.'
+excerpt: 'I find that politicians exchange access to protected forests in exchange for political support, leading to higher rates of deforestation in the months surrounding competitive elections.'
 date: 2018-08-01
 venue: 'TBD'
 paperurl: 'https://github.com/lcsanford/lcsanford.github.io/blob/master/files/Elections_Working.pdf'
