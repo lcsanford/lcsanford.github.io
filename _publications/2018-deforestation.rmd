@@ -1,5 +1,5 @@
 ---
-title: "Cookstoves illustrate the need for a comprehensive carbon market"
+title: "1Cookstoves illustrate the need for a comprehensive carbon market"
 collection: publications
 permalink: /publication/2015-cookstoves
 excerpt: 'We conduct a meta-analysis of previous cookstove emissions studies to improve greenhouse gas emission estimates of different stove classes and use this to show that incentive structures provided by current carbon markets promote stoves that have a larger greenhouse gas footprint.'
