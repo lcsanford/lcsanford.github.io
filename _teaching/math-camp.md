@@ -1,9 +1,9 @@
 ---
 title: "School of Global Policy and Strategy Math Boot Camp"
 collection: teaching
-type: "Graduate course"
+type: "Graduate course, Instructor of record"
 permalink: /teaching/math-camp
-venue: "University 1, Department"
+venue: "UC San Diego, School of Global Policy and Strategy"
 date: 2018-08-15
 location: "San Diego, CA"
 ---
