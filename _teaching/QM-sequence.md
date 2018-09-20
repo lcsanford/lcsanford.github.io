@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/QM-sequence
 venue: "UC San Diego, School of Global Policy and Strategy"
-date: 2016-2017
+date: 2016-08-25
 location: "San Diego, CA"
 ---
 
