@@ -1,7 +1,7 @@
 ---
 title: "GPS Quantitative Methods Sequence"
 collection: teaching
-type: "Teaching Assistant"
+type: "Graduate course, Teaching Assistant"
 permalink: /teaching/QM-sequence
 venue: "UC San Diego, School of Global Policy and Strategy"
 date: 2016-08-25
