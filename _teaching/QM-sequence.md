@@ -1,5 +1,5 @@
 ---
-title: "GPS Quantitative Methods Sequence"
+title: "Quantitative Methods Sequence"
 collection: teaching
 type: "Graduate course, Teaching Assistant"
 permalink: /teaching/QM-sequence
