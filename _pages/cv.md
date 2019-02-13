@@ -51,7 +51,7 @@ Service and leadership
 * Departmental VP of Social Events (2016-2017)
 * Departmental VP of Orientation (2017-2018)
 
-[PDF Version](https://drive.google.com/file/d/1U_I-b0xDBZfeGjVqpxq-sLqZZrw-7AEM/view)
+[PDF Version](https://www.dropbox.com/s/9bvs50qkikrkntm/2018-11-CV.pdf?dl=0)
 ======
 
 
