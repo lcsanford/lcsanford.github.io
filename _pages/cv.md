@@ -33,25 +33,23 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Departmental VP of Social Events (2016-2017)
 * Departmental VP of Orientation (2017-2018)
 
-[PDF Version](https://www.dropbox.com/s/9bvs50qkikrkntm/2018-11-CV.pdf?dl=0)
+[PDF Version](https://www.dropbox.com/s/jjs26fh02wizy80/2020-04-CV.pdf?dl=0)
 ======
-
-
