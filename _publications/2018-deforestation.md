@@ -1,5 +1,5 @@
 ---
-title: "WORKING PAPER: Democratization, Elections, and Public Goods: The Evidence from Deforestation"
+title: "WORKING PAPER: Democratization, Elections, and Public Goods: The Evidence from Deforestation" R&R at AJPS
 collection: publications
 permalink: /publication/2018-deforestation
 excerpt: 'I find that politicians exchange access to protected forests in exchange for political support, leading to higher rates of deforestation in the months surrounding competitive elections.'
