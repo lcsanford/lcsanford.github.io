@@ -10,4 +10,8 @@ main:
     url: /teaching/
 
   - title: "CV"
-    url: https://github.com/lcsanford/lcsanford.github.io/raw/master/files/LS_CV.pdf
+    url: /cv/
+    
+<!---
+https://github.com/lcsanford/lcsanford.github.io/raw/master/files/LS_CV.pdf
+--->
