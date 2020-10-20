@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-deforestation
 excerpt: 'I find that politicians exchange access to protected forests in exchange for political support, leading to higher rates of deforestation in the months surrounding competitive elections.'
 date: 2020-10-01
-working: 
+working: working
 citation: 'Sanford, L. (2020). &quot;Democratization, Elections, and Public Goods: The Evidence from Deforestation&quot; <i>Working Paper</i>.'
 ---
 Abstract:
